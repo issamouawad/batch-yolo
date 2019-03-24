@@ -1,0 +1,4 @@
+/home/issa/darknet/data/dog.jpg
+data/2.jpg
+data/3.jpg
+
