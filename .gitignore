@@ -1,4 +1,6 @@
 *.o
+*.jpg
+*.weights
 *.dSYM
 *.csv
 *.out
