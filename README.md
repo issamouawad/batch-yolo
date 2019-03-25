@@ -16,3 +16,6 @@ https://www.dropbox.com/s/wvanwkmrcj6x5tj/1.zip?dl=0
 
 
 https://www.dropbox.com/s/29hndevje23wuez/data.zip?dl=0
+
+
+https://www.dropbox.com/s/2ld0pfmcprmssit/cfg.zip?dl=0
